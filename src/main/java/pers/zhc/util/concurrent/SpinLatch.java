@@ -1,4 +1,4 @@
-package pers.zhc.util;
+package pers.zhc.util.concurrent;
 
 /**
  * @author bczhc
