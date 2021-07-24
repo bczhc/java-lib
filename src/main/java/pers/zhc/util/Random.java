@@ -1,4 +1,4 @@
-package pers.zhc.util.math;
+package pers.zhc.util;
 
 /**
  * @author bczhc
